@@ -40,16 +40,6 @@ const cards = [
 ];
 
 
-// document.getElementById('sch01').innerText = card.hit   
-// document.getElementById('sch01').style.color = '#ff5733'
-// document.getElementById('eazy').innerText = card.title
-// document.getElementById('feat1').innerText = card.features[0]
-// document.getElementById('feat2').innerText = card.features[1]
-// document.getElementById('feat3').innerText = card.features[2]
-// document.getElementById('feat4').innerText = card.features[3]
-// document.getElementById('discr').innerText = card.subtitle
-// document.getElementById('cta').innerText = card.cta
-
 // using cards array of objects
 // card 0
 document.getElementById('sch01').innerText = cards[0].hit
